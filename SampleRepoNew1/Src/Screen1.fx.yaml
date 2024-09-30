@@ -30,3 +30,8 @@ Screen1 As screen:
         Y: =250
         ZIndex: =5
 
+    DatePicker1 As datepicker:
+        X: =363
+        Y: =145
+        ZIndex: =6
+
