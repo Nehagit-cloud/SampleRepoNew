@@ -18,3 +18,9 @@ Screen1 As screen:
         Y: =40
         ZIndex: =3
 
+    Button4 As button:
+        Text: ="Button2"
+        X: =650
+        Y: =40
+        ZIndex: =4
+
