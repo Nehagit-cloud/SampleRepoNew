@@ -24,3 +24,14 @@ Screen1 As screen:
         Y: =40
         ZIndex: =4
 
+    Label1 As label:
+        Text: ="Text"
+        X: =297
+        Y: =250
+        ZIndex: =5
+
+    DatePicker1 As datepicker:
+        X: =363
+        Y: =145
+        ZIndex: =6
+
