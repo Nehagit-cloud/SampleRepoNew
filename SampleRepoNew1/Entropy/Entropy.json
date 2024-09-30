@@ -5,12 +5,13 @@
     "App": 1,
     "Button1": 5,
     "Button2": 6,
+    "Button3": 7,
     "Host": 3,
     "Screen1": 4
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "09/30/2024 14:35:46",
+  "HeaderLastSavedDateTimeUTC": "09/30/2024 14:36:30",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": true,
@@ -29,6 +30,7 @@
     "App": {},
     "Button1": {},
     "Button2": {},
+    "Button3": {},
     "Host": {},
     "Screen1": {}
   },
@@ -38,6 +40,7 @@
     "App": 0,
     "Button1": 0,
     "Button2": 1,
+    "Button3": 0,
     "Host": 0,
     "Screen1": 0
   },
