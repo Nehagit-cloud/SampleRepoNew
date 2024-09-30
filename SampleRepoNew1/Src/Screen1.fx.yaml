@@ -1,0 +1,32 @@
+Screen1 As screen:
+
+    Button1 As button:
+        Text: ="New"
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+    Button2 As button:
+        Text: ="Submit"
+        X: =256
+        Y: =40
+        ZIndex: =2
+
+    Button3 As button:
+        Text: ="Button1"
+        X: =447
+        Y: =40
+        ZIndex: =3
+
+    Button4 As button:
+        Text: ="Button2"
+        X: =650
+        Y: =40
+        ZIndex: =4
+
+    Label1 As label:
+        Text: ="Text"
+        X: =297
+        Y: =250
+        ZIndex: =5
+
