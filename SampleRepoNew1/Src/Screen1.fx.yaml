@@ -52,3 +52,11 @@ Screen1 As screen:
         Y: =252
         ZIndex: =9
 
+    Label3 As label:
+        Height: =105
+        Text: ="new label"
+        Width: =117
+        X: =92
+        Y: =100
+        ZIndex: =10
+
