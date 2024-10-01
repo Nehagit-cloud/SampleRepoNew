@@ -60,3 +60,14 @@ Screen1 As screen:
         Y: =100
         ZIndex: =10
 
+    TextInput1 As text:
+        Default: ="Text input"
+        X: =703
+        Y: =320
+        ZIndex: =11
+
+    DatePicker2 As datepicker:
+        X: =666
+        Y: =146
+        ZIndex: =12
+
