@@ -1,0 +1,73 @@
+Screen1 As screen:
+
+    Button1 As button:
+        Text: ="New"
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+    Button2 As button:
+        Text: ="Submit"
+        X: =256
+        Y: =40
+        ZIndex: =2
+
+    Button3 As button:
+        Text: ="Button1"
+        X: =447
+        Y: =40
+        ZIndex: =3
+
+    Button4 As button:
+        Text: ="Button2"
+        X: =650
+        Y: =40
+        ZIndex: =4
+
+    Label1 As label:
+        Text: ="Text"
+        X: =297
+        Y: =250
+        ZIndex: =5
+
+    DatePicker1 As datepicker:
+        X: =363
+        Y: =145
+        ZIndex: =6
+
+    Rectangle1 As rectangle:
+        X: =176
+        Y: =360
+        ZIndex: =7
+
+    Button5 As button:
+        Text: ="Button"
+        X: =416
+        Y: =420
+        ZIndex: =8
+
+    Label2 As label:
+        Text: ="Text"
+        X: =413
+        Y: =252
+        ZIndex: =9
+
+    Label3 As label:
+        Height: =105
+        Text: ="new label"
+        Width: =117
+        X: =92
+        Y: =100
+        ZIndex: =10
+
+    TextInput1 As text:
+        Default: ="Text input"
+        X: =703
+        Y: =320
+        ZIndex: =11
+
+    DatePicker2 As datepicker:
+        X: =666
+        Y: =146
+        ZIndex: =12
+
